@@ -14,5 +14,11 @@
   "seed": null,
   "visual_review": "small mouth-expression edit passed; identity and shading visually retained; no pixel equality claim",
   "client_approval": "pending",
-  "image_github_uploaded": false
+  "image_github_uploaded": false,
+  "user_review": {
+    "status": "passed",
+    "date": "2026-10-24 KST",
+    "evidence": "통과! 수고했어",
+    "scope": "CT-008 calm expression candidate: identity and smile/neutral distinction accepted; not whole character design approval"
+  }
 }
