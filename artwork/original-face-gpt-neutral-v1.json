@@ -1,0 +1,18 @@
+{
+  "provider": "GPT image generation/editing tool",
+  "tool": "image_gen",
+  "trial": "CT-008",
+  "input": "artwork/original-face-gpt-v2.png",
+  "prompt": "Edit the supplied image as a strictly localized expression edit, producing ONE portrait. Preserve this exact adult woman (27), original composition, framing and slight head tilt, auburn asymmetric bob and every major hair clump, warm amber almond eyes with thick tapered upper lashes and layered irises, small stylized nose, adult jawline, charcoal collared shirt, pale grey background, original warm skin gradients and sharply defined neck shadows, broad multi-tone hair highlights, fine warm colored contours and high quality anime illustration rendering. Change ONLY the mouth expression: reduce the existing small confident smile to a gently closed nearly neutral mouth, calm and attentive, with just a trace of warmth. Do not turn it into anger, sadness or a frown. Preserve the eye and eyebrow expression as closely as possible. Keep the rest of the image as unchanged as possible: do not simplify the skin or hair shading, do not redesign the face, do not change clothes or hair color, do not add makeup, do not expand the crop or correct the top-of-head crop. No text, no comparison sheet, no extra characters. This is a controlled small image-to-image edit of an existing original adult character.",
+  "output": "artwork/original-face-gpt-neutral-v1.png",
+  "sha256": "8774cd1f758fa1eb9afba4bf7cc2c3b26fa4449e06395ca6dfb866f4b1a0c49d",
+  "generation_calls": 1,
+  "nai_calls": 0,
+  "nai_anlas_used": 0,
+  "gpt_billing": "not reported by tool",
+  "model_version": null,
+  "seed": null,
+  "visual_review": "small mouth-expression edit passed; identity and shading visually retained; no pixel equality claim",
+  "client_approval": "pending",
+  "image_github_uploaded": false
+}
