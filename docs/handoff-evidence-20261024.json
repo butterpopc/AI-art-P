@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-24",
+  "archive": "AI-art-P-handoff-20261024-013548.zip",
+  "archive_sha256": "5bb703f15840cf1d508ded7849735f2d7be0d2fd8b58e2957bebb6e48f6255b1",
+  "scope": "Uploaded archive evidence, no new generation and no image visual reinspection. Images remain in the handoff archive; no raw conversation published.",
+  "checks": [
+    {
+      "case": "square-puuzaki",
+      "image_sha256": "c07819e2c1ae469a631838e3e1b241189d70e85fdadb873bff32f988176aa624",
+      "crc_verified": true,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "embedded_seed_matches": true,
+      "model": "nai-diffusion-5-full",
+      "seed": 271027,
+      "steps": 23,
+      "cfg": 5,
+      "sampler": "k_euler_ancestral",
+      "schedule": "karras",
+      "reported_anlas": 0,
+      "visual_reinspection": false
+    },
+    {
+      "case": "square-ask",
+      "image_sha256": "46bf6cf82f1f6e6b5d4a75bcee86ec63ef00aab94ca41f84b042a4efbc1f3069",
+      "crc_verified": true,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "embedded_seed_matches": true,
+      "model": "nai-diffusion-5-full",
+      "seed": 271027,
+      "steps": 23,
+      "cfg": 5,
+      "sampler": "k_euler_ancestral",
+      "schedule": "karras",
+      "reported_anlas": 0,
+      "visual_reinspection": false
+    },
+    {
+      "case": "square-hiten",
+      "image_sha256": "4fa7fbff321506d7969b631890f0a77411fbba27e3fb7fb7f26696cf0451d83d",
+      "crc_verified": true,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "embedded_seed_matches": true,
+      "model": "nai-diffusion-5-full",
+      "seed": 271027,
+      "steps": 23,
+      "cfg": 5,
+      "sampler": "k_euler_ancestral",
+      "schedule": "karras",
+      "reported_anlas": 0,
+      "visual_reinspection": false
+    },
+    {
+      "case": "local-face-serious-v1",
+      "image_sha256": "e7881aa6e726f7a6c2fe034e51605d61c95f531f4955a119ae634a454eab610c",
+      "crc_verified": true,
+      "dimensions": [
+        936,
+        1024
+      ],
+      "model": "anima-base-v1.0.safetensors",
+      "seed": 2026102402,
+      "steps": 30,
+      "cfg": 4,
+      "denoise": 0.25,
+      "sampler": "euler",
+      "schedule": "simple",
+      "input_hash_matches_repository": true,
+      "visual_reinspection": false
+    }
+  ]
+}

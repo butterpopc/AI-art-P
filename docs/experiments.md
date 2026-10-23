@@ -1,0 +1,37 @@
+# 시험 목록 — 다시 시작하기 전에 확인
+
+갱신: 2026-10-24. 완료는 실행·기록이 끝났다는 뜻이며, 채택이나 클라이언트 승인을 뜻하지 않습니다.
+
+## 저장소에서 확인한 시험
+
+| ID | 시험과 조건 | 판정 | 근거 |
+|---|---|---|---|
+| V45-PIPELINE | V4.5 텍스트/참조 2장. 프롬프트도 달라 참조 효과를 단독 분리할 수 없음 | 구조 이탈, 과거 선정본 대체 안 함 | [검수](../reviews/pipeline-evaluation.md) |
+| V5-COMPARE | 832×1216, 23 steps, Euler ancestral/Karras, CFG 7. 시드 271025/271026. 무작가·PUUZAKI·saitom 및 품질 구간 비교 6장 | 얼굴 변화와 구조 이탈 동반. 같은 조건 연속 생성 중단 | [검수](../reviews/v5-comparison.md) · [비교 화면](../comparison-v5.html) |
+| V5-FACE | 얼굴 진행 v4의 V5 3장. CFG 7→5, 프롬프트 간소화, 다른 시드 순차 시험 | 긴 코·단순한 피부 표현, 기준 얼굴 미교체 | [검수](../reviews/face-progress-v4.md) · [프롬프트](../prompts/) |
+| GPT-FACE | 기준 얼굴과 표정·방향 후보 제작 | 얼굴·정면 인상 유지 방향. 전체 승인 아님 | [얼굴](../reviews/original-face-v2.md) · [표정](../reviews/original-expressions-v2.md) |
+| GPT-BODY | 기준 얼굴을 정면 전신 제안으로 확장 | 체형·하의·신발 미승인, A라인 등 한계 기록 | [검수](../reviews/fullbody-front-v1.md) |
+
+위 목록은 모든 생성 파일의 완전한 수량 집계가 아닙니다. 상세 설정은 [artwork](../artwork/)와 [prompts](../prompts/), 비용은 [원장](../reviews/novelai-costs.json)을 대조합니다.
+
+## 인계 파일 확인 또는 채팅 보고
+
+| ID | 보고된 작업 | 보고된 결과 | 확인 수준 |
+|---|---|---|---|
+| LOCAL-V5-SQUARE | 같은 시드 271027, 1024×1024, 23 steps, CFG 5, PUUZAKI / ASK / Hiten 3장 | 당시 추가 차감 0, 기준 얼굴 유지 부족·미선정 | [인계 ZIP 실물·해시·PNG 검증 완료](handoff-evidence-20261024.md). 이번 육안 재검수 아님 |
+| LOCAL-COMFY | 낮은 변환 강도 비교와 진지한 표정 후보. 후보 seed 2026102402, 30 steps, CFG 4, denoise 0.25 | 낮은 강도에서 보존 우세, 명암 단순화 | [인계 ZIP의 후보 이미지·설정·워크플로 확인](handoff-evidence-20261024.md). 전체 시험 원본 모두를 확보한 것은 아님 |
+| CLOUD-V45-FREE | V4.5 Full 무차감 실행 확인 1장 | 전후 Anlas 불변, 완성본 미채택 | 「그림 프로젝트」 보고. v45-free-original-face-v1.png 실물 대조 필요 |
+| CLOUD-RESEARCH | V5 커뮤니티·GitHub 조사 | 아카라이브 직접 접근 403, 공개 자료 분석 보고서 작성 | 별도 작업공간 보고. v5-community-research-20261024.md 실물 대조 필요 |
+
+파일이 이 저장소에 없다는 이유로 시험을 미실행으로 취급하지 않습니다. ASK와 같이 태그 이름이 같아도 모델·입력·설정이 다르면 구분합니다.
+
+## 다음 시험 기록 양식
+
+- 목적 / 가설:
+- 기존 시험 ID / 달라지는 변수 / 재시험 이유:
+- 모델 / 입력 참조 / 해상도 / steps / CFG / sampler / seed:
+- 실행 전 비용 조건 / 실제 전후 차감:
+- 이미지·실제 요청 설정·검수 파일:
+- 판정 / 유지할 것 / 중단 이유 / 다음 행동:
+
+비용 0만으로 반복 생성하지 않습니다. 과거 0 차감 결과를 현재 정책이나 V5 무제한 사용의 보장으로 쓰지 않습니다.
