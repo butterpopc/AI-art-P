@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24 KST",
+  "tool": "image_gen.imagegen",
+  "model_version": null,
+  "seed": null,
+  "steps": null,
+  "cfg": null,
+  "transparent_background": false,
+  "referenced_image_paths": [
+    "artwork/final-turnaround-outfit-v1.png",
+    "artwork/original-face-gpt-v2.png"
+  ],
+  "prompt_summary": "Preserve adult character and four-view layout. Replace clothing with opaque matte warm skin-beige high-neck full unitard to wrists and ankles. Smooth broad shading, no sensitive anatomy, no transparency. Bare feet, neutral pose, grey background.",
+  "prompt_record": "Summary reconstructed from execution record; not verbatim prompt.",
+  "output": {
+    "path": "artwork/final-turnaround-base-v1.png",
+    "sha256": "3565eb5cf5bee24f7903e12e4257a539c073f5f0b11621cd999ce5b9cc03536e",
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "approval": "production complete; final client approval not recorded",
+  "github_png_uploaded": false,
+  "nai_calls": 0,
+  "anlas_used": 0,
+  "gpt_cost": "not exposed by tool"
+}

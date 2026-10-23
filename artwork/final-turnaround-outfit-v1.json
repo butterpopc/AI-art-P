@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24 KST",
+  "tool": "image_gen.imagegen",
+  "model_version": null,
+  "seed": null,
+  "steps": null,
+  "cfg": null,
+  "transparent_background": false,
+  "referenced_image_paths": [
+    "artwork/original-fullbody-front-v1.png",
+    "artwork/original-face-gpt-v2.png"
+  ],
+  "prompt_summary": "Same clearly adult 27-year-old character; asymmetric auburn bob, amber eyes, mature build. Four standing full-body views FRONT BACK LEFT RIGHT, relaxed separated arms, natural hands. Charcoal rolled-sleeve button blouse, taupe short skirt, brown belt and ankle boots. Grey background, same scale, no cropping.",
+  "prompt_record": "Summary reconstructed from execution record; not verbatim prompt.",
+  "output": {
+    "path": "artwork/final-turnaround-outfit-v1.png",
+    "sha256": "aa5473519a8d118afc187b703b72edaf55af7ce58598370fd4178862bf5bd141",
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "approval": "production complete; final client approval not recorded",
+  "github_png_uploaded": false,
+  "nai_calls": 0,
+  "anlas_used": 0,
+  "gpt_cost": "not exposed by tool"
+}

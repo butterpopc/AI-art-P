@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24 KST",
+  "tool": "image_gen.imagegen",
+  "model_version": null,
+  "seed": null,
+  "steps": null,
+  "cfg": null,
+  "transparent_background": false,
+  "referenced_image_paths": [
+    "artwork/final-turnaround-outfit-v1.png",
+    "artwork/original-face-gpt-v2.png"
+  ],
+  "prompt_summary": "Same clearly adult 27-year-old character and four-view layout. Opaque charcoal high-neck longline sports bra with broad straps to natural waist; high-waisted mid-thigh boyshorts, small waist strip. Plain matte practical athletic basics, no sheer fabric. Neutral standing poses, bare feet, grey background.",
+  "prompt_record": "Summary reconstructed from execution record; not verbatim prompt.",
+  "output": {
+    "path": "artwork/final-turnaround-underwear-v1.png",
+    "sha256": "5c44427df6bd75afc7dc7f8143b7ac5f95798083b9a9f46c390d680ff6613a14",
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "approval": "production complete; final client approval not recorded",
+  "github_png_uploaded": false,
+  "nai_calls": 0,
+  "anlas_used": 0,
+  "gpt_cost": "not exposed by tool"
+}
