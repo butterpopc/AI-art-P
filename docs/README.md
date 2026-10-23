@@ -4,6 +4,8 @@
 
 | 찾는 내용 | 위치 |
 |---|---|
+| 최종 목표·단계·완료조건·세션 역할 | [project-plan.md](project-plan.md) |
+| 선호 6장 유지 기준·다음 시험·통과/중단 조건 | [ct003-design-review.md](ct003-design-review.md) |
 | 사용자 요구와 이전 제안 | [brief.md](brief.md) |
 | 실제 실행 도구 사용법 | [novelai.md](novelai.md) |
 | V5 조사·비용 정책의 당시 근거 | [v5-research.md](v5-research.md) · [anlas-policy.md](anlas-policy.md) |
