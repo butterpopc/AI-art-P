@@ -34,3 +34,7 @@ python -m unittest discover -s tests -p 'test_novelai.py' -v
 현재 모의 테스트나 dry-run은 실제 생성 성공·현재 정책 검증이 아닙니다. [과거 비용 원장](../reviews/novelai-costs.json)과 [인계 검증](handoff-evidence-20261024.md)을 구분합니다.
 
 공식 자료: [이미지 API](https://image.novelai.net/docs/index.html) · [모델](https://docs.novelai.net/en/image/models) · [구독](https://docs.novelai.net/en/subscription/). 정책 수치는 실행 시 다시 확인합니다.
+
+## 2026-10-24 실행 준비 점검
+
+[CT-007](ct007-nai-readiness.md): 준비 입력은 무결성 검사를 통과했지만 이미지 필드는 자리표시자다. 위 두 generate 도구는 준비된 V5 img2img 요청을 직접 실행하지 못한다. 공식 무료 조건은 기본 이미지 미사용이므로 현재 0 차감 지시에서 이 시험을 실행하지 않는다. 설정된 환경변수로 구독 조회 GET 1회는 HTTP 401로 실패했다. 생성 호출 없이 확인했으며 같은 인증 조회를 자동 반복하지 않는다.

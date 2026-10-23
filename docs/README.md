@@ -7,6 +7,7 @@
 | 최종 목표·단계·완료조건·세션 역할 | [project-plan.md](project-plan.md) |
 | 선호 6장 유지 기준·다음 시험·통과/중단 조건 | [ct003-design-review.md](ct003-design-review.md) |
 | 추가 클라이언트 참고·원문·이미지 대응·확인 한계 | [참고 자료 목록](../references/client-20261024/README.md) |
+| NAI 입력·도구·인증·비용 준비 점검 | [ct007-nai-readiness.md](ct007-nai-readiness.md) |
 | 사용자 요구와 이전 제안 | [brief.md](brief.md) |
 | 실제 실행 도구 사용법 | [novelai.md](novelai.md) |
 | V5 조사·비용 정책의 당시 근거 | [v5-research.md](v5-research.md) · [anlas-policy.md](anlas-policy.md) |
