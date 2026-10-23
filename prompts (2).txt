@@ -1,0 +1,8 @@
+[main prompt]
+{amazing quality, very aesthetic, high quality, best quality, highres}, rff (3_percent), danimaru, 0.5::kawayabug::, 1.3::makucrp::, mushi024, duoyuanjun, 1.2::alchemaniac::, 0.9::thirty_8ght::, 1.3::rororo::, kirome_(kamipaper), healthyman, 1.4::michiking::, mikozin, 0.4::rusellunt::, manglifer, firm grain, 2::hyper-detailed::, masterpiece,
+
+[character prompts]
+1. 1 girl, firefly (honkai: star rail),
+
+[negative prompt]
+{{{{{worst quality, bad quality}}}}}}, {{{{bad hands}}}}, {{{bad eyes, bad pupils, bad glabella}}}, {{{undetailed eyes}}}}, text, error, extra digit, fewer digits, jpeg artifacts, signature, watermark, username, reference, {{unfinished}}, {{unclear fingertips}}, {{text, twist}}, {{Squiggly}}, {{Grumpy}}, {{incomplete}}, {{Imperfect Fingers}}, Disorganized colors, colored skin, Cheesy, {{very displeasing}}, {{mess}}, {{Approximate}}, {{Sloppiness}}, {{{deviantart, Deviant art}}}, monochrome, greyscale, mask, {{socks, thighhigh}}, {{old man, beard, parted lips}}, {depth of field}, mascot, sd, watermark,
