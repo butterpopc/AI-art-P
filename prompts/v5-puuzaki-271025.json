@@ -1,0 +1,36 @@
+{
+  "model": "nai-diffusion-5-full",
+  "action": "generate",
+  "input": "artist:puuzaki puuna, 1girl, solo, adult woman, 27 years old, full body, standing, looking at viewer, original character,\nShe has a mature tapered face, horizontally elongated teal almond eyes with a strong upper lash line, a small simplified nose, and a subtle confident smile. Her long dark plum hair falls to mid-back. Two parallel gold bars sit at her anatomical left temple, on the viewer's right in a frontal image.\nShe wears an opaque dusty-blue boat-neck ribbed sweater tucked into a high-waisted deep-plum A-line midi skirt. The skirt flares outward from the hips and has one centered inverted front pleat; it is not a fitted pencil skirt. A narrow belt has one small rectangular gold buckle at the front. Dark brown penny loafers and both feet are fully visible. Her arms rest naturally beside her body.\nFine colored outlines, deliberate upper-eyelid emphasis, readable cel-shadow shapes with restrained soft skin transitions and subtle reflected light in the hair. Pale neutral background and even daylight. Clear adult proportions and a graceful curvaceous silhouette.\nbest quality, high complexity",
+  "parameters": {
+    "params_version": 4,
+    "width": 832,
+    "height": 1216,
+    "steps": 23,
+    "n_samples": 1,
+    "seed": 271025,
+    "sampler": "k_euler_ancestral",
+    "noise_schedule": "karras",
+    "scale": 7,
+    "cfg_rescale": 0,
+    "negative_prompt": "lowres, text, watermark, signature, extra limbs, extra fingers, missing fingers, cropped feet, chibi, child, multiple people, school uniform, pencil skirt, mermaid skirt",
+    "v4_prompt": {
+      "caption": {
+        "base_caption": "artist:puuzaki puuna, 1girl, solo, adult woman, 27 years old, full body, standing, looking at viewer, original character,\nShe has a mature tapered face, horizontally elongated teal almond eyes with a strong upper lash line, a small simplified nose, and a subtle confident smile. Her long dark plum hair falls to mid-back. Two parallel gold bars sit at her anatomical left temple, on the viewer's right in a frontal image.\nShe wears an opaque dusty-blue boat-neck ribbed sweater tucked into a high-waisted deep-plum A-line midi skirt. The skirt flares outward from the hips and has one centered inverted front pleat; it is not a fitted pencil skirt. A narrow belt has one small rectangular gold buckle at the front. Dark brown penny loafers and both feet are fully visible. Her arms rest naturally beside her body.\nFine colored outlines, deliberate upper-eyelid emphasis, readable cel-shadow shapes with restrained soft skin transitions and subtle reflected light in the hair. Pale neutral background and even daylight. Clear adult proportions and a graceful curvaceous silhouette.\nbest quality, high complexity",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true,
+      "legacy_uc": false
+    },
+    "v4_negative_prompt": {
+      "caption": {
+        "base_caption": "lowres, text, watermark, signature, extra limbs, extra fingers, missing fingers, cropped feet, chibi, child, multiple people, school uniform, pencil skirt, mermaid skirt",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true,
+      "legacy_uc": false
+    }
+  }
+}

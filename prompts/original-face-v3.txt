@@ -1,0 +1,10 @@
+POSITIVE:
+1girl, solo, adult woman, 27 years old, original character, anime illustration, upper body, portrait, looking at viewer, auburn hair, medium hair, bob cut, side swept bangs, amber eyes, eyelashes, half-closed eyes, smile, closed mouth, black shirt, collared shirt, simple background, grey background,
+A poised adult woman with a chestnut-red asymmetric bob reaching her collarbones, one side tucked behind the ear. Soft side bangs frame both visible amber eyes. She wears an opaque charcoal collared shirt. Her whole head is visible with space above it. The face is softly tapered with a small chin and a tiny understated nose. Her luminous almond eyes have bold tapering upper lash lines, delicate lower lids and a relaxed, knowing gaze. Fine colored contours, rich hair color, clear hair highlights, gentle skin color transitions and clean cel shadows create a polished contemporary anime game illustration.
+best quality, high complexity
+
+UNDESIRED:
+lowres, bad anatomy, text, watermark, signature, child, chibi, realistic, 3d, pixel art, long nose, long face, silver hair, blue eyes, braid, cropped head, nude
+
+CONTROLLED COMPARISON:
+Compare against v2 at same seed 271027 with scale 5. Positive and negative wording revised as a block, not an isolated token test. Then confirm a promising candidate with seed 271028.

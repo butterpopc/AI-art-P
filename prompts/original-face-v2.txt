@@ -1,0 +1,11 @@
+POSITIVE:
+1girl, solo, adult woman, portrait, head and shoulders, looking at viewer, auburn hair, bob cut, asymmetrical bangs, amber eyes, collared shirt, slight smile, anime coloring, simple background,
+An original 27-year-old woman with a chestnut-red collarbone-length bob, a soft broken side fringe crossing part of her forehead, and one side tucked behind the ear. Her upright head and all of her hair fit inside the frame with generous space above. A charcoal collared shirt covers her chest.
+The face is compact and softly angular, with moderately wide cheeks and a short tapered chin. Her nose is a tiny dot close to her small fine-line mouth. Bold tapered upper lash lines frame amber almond eyes with moderately open irises and delicate lower lids. A relaxed confident expression and a slightly raised eyebrow. Strong eye detail against economical facial features. Clear lavender cel shadows, subtle warm cheek shading, clean colored outlines and broad hair highlights. Warm gray background.
+best quality, high complexity
+
+UNDESIRED:
+lowres, text, watermark, signature, child, chibi, long face, long nose, nose bridge, large forehead, realistic lips, photorealistic, 3d, pixel art, white hair, silver hair, blue eyes, braid, hair ornament, cropped head, cleavage, nude
+
+CONTROLLED COMPARISON:
+Face wording revision against original-face-v1 at seed 271027. Fixed model, artist, quality, resolution and sampling. Positive and negative facial descriptions revised together; not attribution to any individual token.

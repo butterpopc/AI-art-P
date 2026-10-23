@@ -1,0 +1,108 @@
+{
+  "trial_limit_anlas": 150,
+  "requests": [
+    {
+      "output": "novelai-seorin-002.png",
+      "reference_sha256": "d2a16ac4508fec3cb993c153742d69ead9b470d79a83c7adc417609b53c1bedf",
+      "started_at_utc": "2026-10-23T02:51:10.041998+00:00",
+      "observed_anlas": 5,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-baseline-271025.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "baseline",
+      "started_at_utc": "2026-10-23T03:52:32.525078+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271025.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T03:53:06.030676+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-saitom-271025.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "saitom",
+      "started_at_utc": "2026-10-23T03:53:33.769900+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-baseline-271026.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "baseline",
+      "started_at_utc": "2026-10-23T03:54:49.910063+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271026.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T03:55:12.721015+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271025-standard.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T03:59:03.262104+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271027-original-face-v1-standard.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T05:48:48.898251+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_direction_study"
+    },
+    {
+      "output": "v5-puuzaki-271027-original-face-v2-standard.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T05:55:42.430128+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-baseline-271027-original-face-v2-standard.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "baseline",
+      "started_at_utc": "2026-10-23T05:56:12.385425+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271027-original-face-v2-standard-cfg5.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T06:13:49.538502+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271027-original-face-v3-standard-cfg5.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T06:14:12.710954+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    },
+    {
+      "output": "v5-puuzaki-271028-original-face-v3-standard-cfg5.png",
+      "model": "nai-diffusion-5-full",
+      "variant": "puuzaki",
+      "started_at_utc": "2026-10-23T06:14:46.297210+00:00",
+      "observed_anlas": 0,
+      "status": "reviewed_not_selected"
+    }
+  ]
+}

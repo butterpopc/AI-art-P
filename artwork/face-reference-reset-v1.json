@@ -1,0 +1,16 @@
+{
+  "provider": "image_gen",
+  "output": "artwork/face-reference-reset-v1.png",
+  "direct_references": [
+    "/workspace/AI-art-P/references/client-originals/2-1000076677.jpg",
+    "/workspace/AI-art-P/references/client-originals/1-1000076669.jpg"
+  ],
+  "all_eight_reviewed": true,
+  "other_references": "Facial analysis only; not all eight were directly supplied to the successful generation.",
+  "prompt": "Create one original, fully clothed, nonsexual anime head-and-shoulders portrait of a clearly adult 27-year-old woman, using these two illustrations only for facial drawing and line/color technique. Plain pale gray background. Crop at shoulders, opaque ivory crewneck sweater and navy cardigan covering the chest. No text, no symbols or signature.\n\nPriority is face design: elongated almond-shaped turquoise eyes with moderate vertical opening, strongly defined black upper eyelid wedges tapering outward, delicate lower eyelids, relaxed fine eyebrows. The irises are partly overlapped by the upper eyelids, with small precise highlights. Use a tiny stylized nose mark and small simple closed-mouth smile, a clean tapered jaw and adult facial proportions. Thin colored face contours contrast with thicker eye lines. Clean crisp lavender cel shadow shapes; restrained soft cheek color. No realistic nose or volumetric lip rendering. No 3D or photorealistic treatment.\n\nLong silver-gray hair with cool blue undertones in large clean flowing masses, broad pale graphic highlights, an off-center fringe framing both visible eyes. A small loose side braid on her right. Near-frontal eye-level view with a slight natural turn. Quietly confident, composed friendly expression, no intense blush, tears, sweat, or distressed expression. No butterflies, paint, eyepatch, elaborate costume, hair ornaments or copied character identifiers.\n\nThe intended direction comes from eight reviewed references: expressive anime eyes carry most facial detail while the nose and mouth remain economical. Additional facial studies suggest combining moderately open eyes with heavy upper lash lines and a simple angular chin; do not make every eye a narrow slit. This is a fresh face design, not the earlier generic softly shaded dark-haired portrait. Premium clean 2D anime illustration with deliberate line-weight hierarchy and bright restrained colors. One image only.",
+  "client_approval": "pending",
+  "novelai_called": false,
+  "anlas_used": 0,
+  "attempts": "First call rejected for >5 references; second rejected at input safety stage (sexual); third succeeded with two clothed references and a nonsexual portrait prompt.",
+  "visual_review": "Strong upper eyelids, simplified nose and mouth, cel shadows now closer to references. Head tilt and fringe strongly resemble blue-cardigan reference; this is a direction study, not an approved original identity. Braid appears on viewer right, opposite requested character-right side. Hair top cropped; acceptable for face study, not turnaround."
+}

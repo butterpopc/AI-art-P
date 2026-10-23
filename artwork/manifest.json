@@ -1,0 +1,84 @@
+[
+  {
+    "file": "seorin-key-visual-v1.png",
+    "provider": "image_gen",
+    "model_identifier": "not exposed by tool",
+    "prompt": "../prompts/01-key-visual.txt",
+    "reference_images": [],
+    "width": 1024,
+    "height": 1536,
+    "sha256": "d2a16ac4508fec3cb993c153742d69ead9b470d79a83c7adc417609b53c1bedf",
+    "created_date_kst": "2026-10-23",
+    "client_approval": "pending"
+  },
+  {
+    "file": "seorin-turnaround-v1.png",
+    "provider": "image_gen",
+    "model_identifier": "not exposed by tool",
+    "prompt": "../prompts/02-turnaround.txt",
+    "reference_images": [
+      "seorin-key-visual-v1.png"
+    ],
+    "width": 1536,
+    "height": 1024,
+    "sha256": "b4a1ba4cd0de0a80a989f76bd4cf6eb438b7436ab09eaedf4115e4e731a96373",
+    "created_date_kst": "2026-10-23",
+    "client_approval": "pending"
+  },
+  {
+    "file": "seorin-expressions-v1.png",
+    "provider": "image_gen",
+    "model_identifier": "not exposed by tool",
+    "prompt": "../prompts/03-expressions.txt",
+    "reference_images": [
+      "seorin-key-visual-v1.png"
+    ],
+    "width": 1536,
+    "height": 1024,
+    "sha256": "a6e55f1846b4217d4440076ea955f5261f455fc063c9c9d0d68324e18cba427c",
+    "created_date_kst": "2026-10-23",
+    "client_approval": "pending"
+  },
+  {
+    "file": "seorin-turnaround-v2.png",
+    "provider": "image_gen",
+    "model_identifier": "not exposed by tool",
+    "prompt": "../prompts/04-turnaround-revision.txt",
+    "reference_images": [
+      "seorin-turnaround-v1.png"
+    ],
+    "width": 1536,
+    "height": 1024,
+    "sha256": "487ed1a8b3587c022f5bf8b28509dc2179c8a883924b6b5ccb30e2c9c7505269",
+    "created_date_kst": "2026-10-23",
+    "client_approval": "pending"
+  },
+  {
+    "file": "seorin-expressions-v2.png",
+    "provider": "image_gen",
+    "model_identifier": "not exposed by tool",
+    "prompt": "../prompts/05-expressions-revision.txt",
+    "reference_images": [
+      "seorin-expressions-v1.png"
+    ],
+    "width": 1536,
+    "height": 1024,
+    "sha256": "9bc2e4cd12a79cfcde8208967f1f61d3d9eff2eb4b2932c25a7f7e0507bdc352",
+    "created_date_kst": "2026-10-23",
+    "client_approval": "pending"
+  },
+  {
+    "file": "seorin-evening-v1.png",
+    "provider": "image_gen",
+    "model_identifier": "not exposed by tool",
+    "prompt": "../prompts/06-evening-visual.txt",
+    "reference_images": [
+      "seorin-key-visual-v1.png"
+    ],
+    "width": 1024,
+    "height": 1536,
+    "sha256": "d05304820db14ae9a33175295d15d3b5538a98dce077152a765c976fe05472e6",
+    "created_date_kst": "2026-10-23",
+    "client_approval": "pending"
+  }
+]

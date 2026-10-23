@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*credentials*
+*secret*
+private/
+.private/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.log
+delivery/*.zip
+reviews/*.lock
+
+# User-supplied reference originals; local review only.
+references/client-originals/

@@ -1,0 +1,12 @@
+POSITIVE:
+1girl, solo, adult woman, 27 years old, original character, portrait, head and shoulders, looking at viewer, anime illustration, auburn hair, medium hair, bob cut, side part, forehead, amber eyes, collared shirt, closed mouth, slight smile, simple background,
+A mature contemporary woman with a confident composed expression. Her head is upright, almost front facing. Deep reddish-brown hair forms a clean asymmetrical collarbone-length bob with blunt ends. A deep side part exposes most of her forehead; one side is tucked behind her ear. No braid, no hair ornaments. Both eyes are unobstructed.
+Her amber almond eyes are horizontally elongated, with moderate vertical opening and bold black upper eyelid wedges extending outward. Upper lids overlap the top of the irises. Fine sparse lower lashes and straight gently angled eyebrows. Slightly broad cheekbones and a softly angular jaw create an adult face with a compact lower face, not an extremely pointed chin. Her nose is drawn with one tiny shadow and a short mark. Her small closed smiling mouth is a simple fine line without realistic lip volume.
+She wears a charcoal-gray button-up collared shirt with the chest covered. Frame the entire top of her hair, face, neck and shoulders with a little space above her head. Pale warm-gray background, even daylight. Thin warm colored facial contours contrast with thick tapered eye lines. Large clean hair masses with restrained sharp-edged highlights, clear lavender cel shadows, minimal soft cheek shading. Crisp polished 2D anime drawing with expressive eyes and economical nose and mouth detail.
+best quality, high complexity
+
+UNDESIRED:
+lowres, text, watermark, signature, multiple people, child, chibi, photorealistic, 3d, pixel art, realistic lips, heavy makeup, silver hair, white hair, blue hair, blue eyes, braid, hair ornament, hair over eyes, head tilt, cropped head, full body, cleavage, nude
+
+CONTROLLED COMPARISON:
+One V5 Full text-only original face study. No source character image uploaded. This tests an identity redesign; it is not a one-variable comparison against the earlier GPT portrait. Artist tag, if used, is logged separately by the runner.

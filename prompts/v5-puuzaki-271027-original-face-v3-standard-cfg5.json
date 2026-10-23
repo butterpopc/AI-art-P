@@ -1,0 +1,36 @@
+{
+  "model": "nai-diffusion-5-full",
+  "action": "generate",
+  "input": "artist:puuzaki puuna, 1girl, solo, adult woman, 27 years old, original character, anime illustration, upper body, portrait, looking at viewer, auburn hair, medium hair, bob cut, side swept bangs, amber eyes, eyelashes, half-closed eyes, smile, closed mouth, black shirt, collared shirt, simple background, grey background,\nA poised adult woman with a chestnut-red asymmetric bob reaching her collarbones, one side tucked behind the ear. Soft side bangs frame both visible amber eyes. She wears an opaque charcoal collared shirt. Her whole head is visible with space above it. The face is softly tapered with a small chin and a tiny understated nose. Her luminous almond eyes have bold tapering upper lash lines, delicate lower lids and a relaxed, knowing gaze. Fine colored contours, rich hair color, clear hair highlights, gentle skin color transitions and clean cel shadows create a polished contemporary anime game illustration.\nhigh complexity, very aesthetic, masterpiece, no text",
+  "parameters": {
+    "params_version": 4,
+    "width": 832,
+    "height": 1216,
+    "steps": 23,
+    "n_samples": 1,
+    "seed": 271027,
+    "sampler": "k_euler_ancestral",
+    "noise_schedule": "karras",
+    "scale": 5.0,
+    "cfg_rescale": 0,
+    "negative_prompt": "lowres, bad anatomy, text, watermark, signature, child, chibi, realistic, 3d, pixel art, long nose, long face, silver hair, blue eyes, braid, cropped head, nude",
+    "v4_prompt": {
+      "caption": {
+        "base_caption": "artist:puuzaki puuna, 1girl, solo, adult woman, 27 years old, original character, anime illustration, upper body, portrait, looking at viewer, auburn hair, medium hair, bob cut, side swept bangs, amber eyes, eyelashes, half-closed eyes, smile, closed mouth, black shirt, collared shirt, simple background, grey background,\nA poised adult woman with a chestnut-red asymmetric bob reaching her collarbones, one side tucked behind the ear. Soft side bangs frame both visible amber eyes. She wears an opaque charcoal collared shirt. Her whole head is visible with space above it. The face is softly tapered with a small chin and a tiny understated nose. Her luminous almond eyes have bold tapering upper lash lines, delicate lower lids and a relaxed, knowing gaze. Fine colored contours, rich hair color, clear hair highlights, gentle skin color transitions and clean cel shadows create a polished contemporary anime game illustration.\nhigh complexity, very aesthetic, masterpiece, no text",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true,
+      "legacy_uc": false
+    },
+    "v4_negative_prompt": {
+      "caption": {
+        "base_caption": "lowres, bad anatomy, text, watermark, signature, child, chibi, realistic, 3d, pixel art, long nose, long face, silver hair, blue eyes, braid, cropped head, nude",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true,
+      "legacy_uc": false
+    }
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "file": "references/client-originals/1-1000076681.jpg",
+    "sha256": "8358c81f02d1ee6100625732447001633bacbe5e90c35633b5a516671ffb8674",
+    "source": "user attachment",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/2-1000076677.jpg",
+    "sha256": "ae659ed5092bbef568ff9662d861f3222346410cddb5411d90deecd56891fd19",
+    "source": "user attachment",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/3-1000076676.jpg",
+    "sha256": "d303125b8677c0d6a154f29e34532cf5e4cc6d28c3301f20e8bb2be94d50d086",
+    "source": "user attachment",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/4-1000076671.png",
+    "sha256": "de498f6604be6b3712210bc9de3041fd854dc1dd9894b47d25de4cc1daca1bdb",
+    "source": "user attachment",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/5-1000076672.jpg",
+    "sha256": "2a232b495e51029f46a794d167ae9b3985d6c26857c68ac6df78ce751e7039b8",
+    "source": "user attachment",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/1-1000076669.jpg",
+    "sha256": "245dc78ff6112b2aed1a36cf88940175334ef5bf28d97b221bcf6fd569106623",
+    "source": "user attachment, second batch",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/2-1000076666.jpg",
+    "sha256": "fcb86df74d24ff6f4ce3c310f7cdd9280ce5640d2bd2b0ad5477a5f946f162b2",
+    "source": "user attachment, second batch",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  },
+  {
+    "file": "references/client-originals/3-1000076668.png",
+    "sha256": "63e5336bc5019f5d0dd2fde1b16c0067c4efcda7df8fc901d73e57593bf53c8b",
+    "source": "user attachment, second batch",
+    "historical_reference_number": "unknown",
+    "client_rank": "unconfirmed"
+  }
+]

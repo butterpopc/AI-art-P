@@ -1,0 +1,34 @@
+{
+  "input": "1girl, solo, adult woman, 27 years old, full body, standing, looking at viewer, mature beautiful face, slender almond-shaped teal eyes, bold upper eyelashes, delicately drawn small nose, subtle confident smile, long wavy dark plum hair extending to mid-back, two parallel golden hairpins at HER LEFT temple on the RIGHT side of the picture, curvy adult figure, large breasts, defined waist, dusty blue fitted boat-neck ribbed long-sleeve sweater, tucked-in shirt, high-waisted deep plum A-line midi skirt, one inverted pleat on the center FRONT of the skirt, narrow plum belt, rectangular gold buckle, dark brown penny loafers, both feet visible, relaxed arms at sides, five fingers on each hand, refined anime illustration, fine colored lineart, detailed irises, elegant cel shading with soft reflected light, subtle gradients in hair and skin, studio soft light, simple pale background, best quality, very aesthetic",
+  "model": "nai-diffusion-4-5-full",
+  "action": "generate",
+  "parameters": {
+    "params_version": 3,
+    "width": 832,
+    "height": 1216,
+    "steps": 28,
+    "n_samples": 1,
+    "seed": 271024,
+    "sampler": "k_euler_ancestral",
+    "noise_schedule": "karras",
+    "scale": 5,
+    "cfg_rescale": 0,
+    "negative_prompt": "lowres, bad anatomy, bad hands, extra digits, missing fingers, extra limbs, cropped feet, child, chibi, round eyes, text, logo, watermark, signature, multiple girls, underwear, nude, transparent clothing, explicit, gore",
+    "v4_prompt": {
+      "caption": {
+        "base_caption": "1girl, solo, adult woman, 27 years old, full body, standing, looking at viewer, mature beautiful face, slender almond-shaped teal eyes, bold upper eyelashes, delicately drawn small nose, subtle confident smile, long wavy dark plum hair extending to mid-back, two parallel golden hairpins at HER LEFT temple on the RIGHT side of the picture, curvy adult figure, large breasts, defined waist, dusty blue fitted boat-neck ribbed long-sleeve sweater, tucked-in shirt, high-waisted deep plum A-line midi skirt, one inverted pleat on the center FRONT of the skirt, narrow plum belt, rectangular gold buckle, dark brown penny loafers, both feet visible, relaxed arms at sides, five fingers on each hand, refined anime illustration, fine colored lineart, detailed irises, elegant cel shading with soft reflected light, subtle gradients in hair and skin, studio soft light, simple pale background, best quality, very aesthetic",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true
+    },
+    "v4_negative_prompt": {
+      "caption": {
+        "base_caption": "lowres, bad anatomy, bad hands, extra digits, missing fingers, extra limbs, cropped feet, child, chibi, round eyes, text, logo, watermark, signature, multiple girls, underwear, nude, transparent clothing, explicit, gore",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "input": "1girl, solo, adult woman, 27 years old, full body, standing, contemporary anime game heroine, mature tapered face, long narrow almond-shaped teal eyes, strong upper eyelashes, small nose, subtle knowing smile, curvaceous adult proportions, long dark plum wavy hair to mid-back, two parallel gold hairpins on her left temple, dusty blue boat-neck long-sleeve ribbed sweater tucked in, high-waisted aubergine calf-length A-line skirt with one center front inverted pleat, thin plum belt with rectangular gold buckle, brown penny loafers, bare ankles, both shoes visible, relaxed natural pose, plain warm gray background, clean colored lineart, crisp cel shadows, subtle warm skin shading, refined hair reflections, neutral daylight, original character, best quality, very aesthetic",
+  "model": "nai-diffusion-4-5-full",
+  "action": "generate",
+  "parameters": {
+    "params_version": 3,
+    "width": 832,
+    "height": 1216,
+    "steps": 28,
+    "n_samples": 1,
+    "seed": 271023,
+    "sampler": "k_euler_ancestral",
+    "noise_schedule": "karras",
+    "scale": 5,
+    "cfg_rescale": 0,
+    "negative_prompt": "lowres, bad anatomy, bad hands, extra digits, missing fingers, extra limbs, cropped feet, child, chibi, round eyes, text, logo, watermark, signature, multiple girls, underwear, nude, transparent clothing, explicit, gore",
+    "v4_prompt": {
+      "caption": {
+        "base_caption": "1girl, solo, adult woman, 27 years old, full body, standing, contemporary anime game heroine, mature tapered face, long narrow almond-shaped teal eyes, strong upper eyelashes, small nose, subtle knowing smile, curvaceous adult proportions, long dark plum wavy hair to mid-back, two parallel gold hairpins on her left temple, dusty blue boat-neck long-sleeve ribbed sweater tucked in, high-waisted aubergine calf-length A-line skirt with one center front inverted pleat, thin plum belt with rectangular gold buckle, brown penny loafers, bare ankles, both shoes visible, relaxed natural pose, plain warm gray background, clean colored lineart, crisp cel shadows, subtle warm skin shading, refined hair reflections, neutral daylight, original character, best quality, very aesthetic",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true
+    },
+    "v4_negative_prompt": {
+      "caption": {
+        "base_caption": "lowres, bad anatomy, bad hands, extra digits, missing fingers, extra limbs, cropped feet, child, chibi, round eyes, text, logo, watermark, signature, multiple girls, underwear, nude, transparent clothing, explicit, gore",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true
+    }
+  }
+}

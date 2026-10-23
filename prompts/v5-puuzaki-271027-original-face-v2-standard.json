@@ -1,0 +1,36 @@
+{
+  "model": "nai-diffusion-5-full",
+  "action": "generate",
+  "input": "artist:puuzaki puuna, 1girl, solo, adult woman, portrait, head and shoulders, looking at viewer, auburn hair, bob cut, asymmetrical bangs, amber eyes, collared shirt, slight smile, anime coloring, simple background,\nAn original 27-year-old woman with a chestnut-red collarbone-length bob, a soft broken side fringe crossing part of her forehead, and one side tucked behind the ear. Her upright head and all of her hair fit inside the frame with generous space above. A charcoal collared shirt covers her chest.\nThe face is compact and softly angular, with moderately wide cheeks and a short tapered chin. Her nose is a tiny dot close to her small fine-line mouth. Bold tapered upper lash lines frame amber almond eyes with moderately open irises and delicate lower lids. A relaxed confident expression and a slightly raised eyebrow. Strong eye detail against economical facial features. Clear lavender cel shadows, subtle warm cheek shading, clean colored outlines and broad hair highlights. Warm gray background.\nhigh complexity, very aesthetic, masterpiece, no text",
+  "parameters": {
+    "params_version": 4,
+    "width": 832,
+    "height": 1216,
+    "steps": 23,
+    "n_samples": 1,
+    "seed": 271027,
+    "sampler": "k_euler_ancestral",
+    "noise_schedule": "karras",
+    "scale": 7,
+    "cfg_rescale": 0,
+    "negative_prompt": "lowres, text, watermark, signature, child, chibi, long face, long nose, nose bridge, large forehead, realistic lips, photorealistic, 3d, pixel art, white hair, silver hair, blue eyes, braid, hair ornament, cropped head, cleavage, nude",
+    "v4_prompt": {
+      "caption": {
+        "base_caption": "artist:puuzaki puuna, 1girl, solo, adult woman, portrait, head and shoulders, looking at viewer, auburn hair, bob cut, asymmetrical bangs, amber eyes, collared shirt, slight smile, anime coloring, simple background,\nAn original 27-year-old woman with a chestnut-red collarbone-length bob, a soft broken side fringe crossing part of her forehead, and one side tucked behind the ear. Her upright head and all of her hair fit inside the frame with generous space above. A charcoal collared shirt covers her chest.\nThe face is compact and softly angular, with moderately wide cheeks and a short tapered chin. Her nose is a tiny dot close to her small fine-line mouth. Bold tapered upper lash lines frame amber almond eyes with moderately open irises and delicate lower lids. A relaxed confident expression and a slightly raised eyebrow. Strong eye detail against economical facial features. Clear lavender cel shadows, subtle warm cheek shading, clean colored outlines and broad hair highlights. Warm gray background.\nhigh complexity, very aesthetic, masterpiece, no text",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true,
+      "legacy_uc": false
+    },
+    "v4_negative_prompt": {
+      "caption": {
+        "base_caption": "lowres, text, watermark, signature, child, chibi, long face, long nose, nose bridge, large forehead, realistic lips, photorealistic, 3d, pixel art, white hair, silver hair, blue eyes, braid, hair ornament, cropped head, cleavage, nude",
+        "char_captions": []
+      },
+      "use_coords": false,
+      "use_order": true,
+      "legacy_uc": false
+    }
+  }
+}

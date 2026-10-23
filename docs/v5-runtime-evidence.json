@@ -1,0 +1,9 @@
+{
+  "checked_date_kst": "2026-10-23",
+  "source_url": "https://novelai.net/_next/static/chunks/1e943u861145k.js?dpl=3cab28a-39679961723-1",
+  "source_sha256": "43e6f97defdf90c2b996461289679eb8c46a3f181a4de87b0188d6a6f75c3670",
+  "model": "nai-diffusion-5-full",
+  "default_settings_excerpt": "case tb.naiDiffusionV5Curated:case tb.naiDiffusionV5CuratedInpainting:case tb.naiDiffusionV5Full:case tb.naiDiffusionV5FullInpainting:return{params_version:4,width:832,height:1216,scale:7,sampler:tQ.kEulerAncestral,steps:23,seed:void 0,n_samples:1,strength:.7,noise:0,module:void 0,ucPresetId:rg(W),qualityPresetId:r_(W),tag_hint_transparent_background:!1,autoSmea:!1,sm:!1,sm_dyn:!1,dynamic_thresholding:!1,controlnet_strength:1,legacy:!1,add_original_image:!0,cfg_rescale:0,noise_schedule:tF(tQ.kEulerAncestral),legacy_v3_extend:!1,skip_cfg_above_sigma:null,use_coords:!1,legacy_uc:!1,normalize_reference_strength_multiple:!0,inpaintImg2ImgStrength:1};case tb.naiDiffusionV4_5Full:case tb.naiDiffusionV4_5FullInpainting:case tb.naiDiffusionv4_5Cura",
+  "confirmed_sampler": "k_euler_ancestral",
+  "confirmed_schedule": "karras"
+}

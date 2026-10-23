@@ -1,0 +1,8 @@
+{
+  "provider": "image_gen",
+  "prompt": "Edit the supplied three-panel adult anime character expression sheet. Preserve the same character, face design, chestnut bob, amber eyes, charcoal shirt, clean anime drawing quality, and three equal columns. Correct FRAMING: zoom each portrait OUT substantially, reducing the character scale by approximately 20 percent in each panel, extending the existing gray background above, below and to sides. Every hair silhouette must be fully inside its panel with a clearly visible band of empty gray at the top, at least 10 percent of panel height. Show down to upper chest. Never cut the hair crown. Keep all heads at the same scale and eye level. Keep left panel's calm small smile; keep middle panel serious with closed level mouth and slightly drawn-in brows. In RIGHT panel only, make the playful expression more distinct: clearly raise her anatomical left eyebrow, slightly narrow the smiling eyes and lift one corner of a closed-mouth grin. No wink, no tongue, no exaggerated blush. Keep faces matching in structure and adult appearance. No text, no new accessories. Output one landscape sheet.",
+  "reference": "artwork/original-expressions-v1.png",
+  "output": "artwork/original-expressions-v2.png",
+  "client_approval": "pending",
+  "visual_review": "Top margin fixed, three full hair silhouettes visible. Hair color, amber eyes, outfit and facial identity broadly maintained. Middle expression reads stern rather than purely focused; left/right difference subtle, brow adjustment limited. Slight head tilt persists. Selected for direction review, not final approval."
+}
