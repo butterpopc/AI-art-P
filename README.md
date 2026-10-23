@@ -1,5 +1,14 @@
 # AI-art-P · 윤서린 캐릭터 제작
 
+## 새 정면 전신 시안
+
+얼굴·정면 인상에 대한 호평을 기준으로 확장한 체형·의상 제안입니다. 새 체형·하의·신발은 아직 평가 전입니다.
+
+[원본 PNG](artwork/original-fullbody-front-v1.png) · [전신 검토 묶음 ZIP](https://raw.githubusercontent.com/butterpopc/AI-art-P/main/delivery/fullbody-front-v1.zip)
+
+![정면 전신 시안](artwork/original-fullbody-front-v1.png)
+
+
 ## 최신 다운로드
 
 - [최신 얼굴·표정·방향 검토본 ZIP](https://github.com/butterpopc/AI-art-P/raw/refs/heads/main/delivery/face-review-v4.zip)
