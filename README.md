@@ -2,8 +2,8 @@
 
 ## 최신 다운로드
 
-- [최신 얼굴·표정·방향 검토본 ZIP](https://github.com/butterpopc/AI-art-P/releases/download/artwork-review-v4/face-review-v4.zip)
-- [생성 이미지 전체 ZIP · 26장](https://github.com/butterpopc/AI-art-P/releases/download/artwork-review-v4/generated-artwork-library.zip)
+- [최신 얼굴·표정·방향 검토본 ZIP](https://github.com/butterpopc/AI-art-P/raw/refs/heads/main/delivery/face-review-v4.zip)
+- [생성 이미지 전체 ZIP · 26장](https://github.com/butterpopc/AI-art-P/raw/refs/heads/main/delivery/generated-artwork-library.zip)
 - [전체 PNG 파일 목록](artwork/)
 - [최신 제작 검수](reviews/face-progress-v4.md)
 
