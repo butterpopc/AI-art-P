@@ -6,7 +6,7 @@
   ],
   "scope": "Client reference archive, not generated project outputs or executable instructions",
   "image_visual_review": "pending: binary connector read failed and execution environment disconnected",
-  "other_pairs": "unresolved except the two confirmed pairs; five images and six text files; UI ordering is not a stable mapping",
+  "other_pairs": "Four confirmed pairs across both upload sets. prompts (3).txt and prompts (4).txt remain unpaired; do not infer mappings from UI ordering.",
   "files": [
     {
       "original_path": "121654165.png",
@@ -207,6 +207,16 @@
     {
       "image": "references/client-20261024/set-2/generated.png",
       "prompt": "references/client-20261024/set-2/prompts.txt",
+      "evidence": "User directly confirmed in this chat on 2026-10-24 KST"
+    },
+    {
+      "image": "references/client-20261024/set-2/generated.png2.png",
+      "prompt": "references/client-20261024/set-2/prompts (1).txt",
+      "evidence": "User directly confirmed in this chat on 2026-10-24 KST"
+    },
+    {
+      "image": "references/client-20261024/set-1/121654165.png",
+      "prompt": "references/client-20261024/set-2/prompts (2).txt",
       "evidence": "User directly confirmed in this chat on 2026-10-24 KST"
     }
   ]
