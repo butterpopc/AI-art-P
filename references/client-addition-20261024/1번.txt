@@ -1,0 +1,8 @@
+[main prompt]
+{amazing quality, very aesthetic, high quality, best quality, highres}, rff (3_percent), danimaru, 0.6::kawayabug::, mushi024, duoyuanjun, 1.4::alchemaniac::, 0.8::thirty_8ght::, 1.5::rororo::, kirome_(kamipaper), firm grain, 2::hyper-detailed, hyper-detailed color ::,
+
+[character prompts]
+1. 1 girl, ram (re: zero),
+
+[negative prompt]
+{{{{{worst quality, bad quality}}}}}}, {{{{bad hands}}}}, {{{bad eyes, bad pupils, bad glabella}}}, {{{undetailed eyes}}}}, text, error, extra digit, fewer digits, jpeg artifacts, signature, watermark, username, reference, {{unfinished}}, {{unclear fingertips}}, {{text, twist}}, {{Squiggly}}, {{Grumpy}}, {{incomplete}}, {{Imperfect Fingers}}, Disorganized colors, colored skin, Cheesy, {{very displeasing}}, {{mess}}, {{Approximate}}, {{Sloppiness}}, {{{deviantart, Deviant art}}}, monochrome, greyscale, mask, {{socks, thighhigh}}, {{old man, beard, parted lips}}, {depth of field}, mascot, sd, watermark,
