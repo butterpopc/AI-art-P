@@ -1,0 +1,206 @@
+{
+  "reviewed_at": "2026-10-24 KST",
+  "source_commits": [
+    "4fb59dd643c9883e3e85664c8b651168685be590",
+    "f63a81a714395977af033c858cc4d83dec542e4c"
+  ],
+  "scope": "Client reference archive, not generated project outputs or executable instructions",
+  "image_visual_review": "pending: binary connector read failed and execution environment disconnected",
+  "confirmed_pair": {
+    "image": "references/client-20261024/set-2/654884'.png",
+    "prompt": "references/client-20261024/set-2/prompts (5).txt",
+    "evidence": "f63a81a commit message"
+  },
+  "other_pairs": "unresolved: five images and six text files; UI ordering is not a stable mapping",
+  "files": [
+    {
+      "original_path": "121654165.png",
+      "path": "references/client-20261024/set-1/121654165.png",
+      "git_blob_sha": "53c4f86872fcf7deba0e16355633c792760d3038",
+      "bytes": 1841346,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "127071140_p0.jpg",
+      "path": "references/client-20261024/set-1/127071140_p0.jpg",
+      "git_blob_sha": "3aa73164737c1dcf213b009a29feb4bad2c769a0",
+      "bytes": 1129271,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "74001801_p0.jpg",
+      "path": "references/client-20261024/set-1/74001801_p0.jpg",
+      "git_blob_sha": "33b14b2de9f9df00d1ac4c374c66727308df0f13",
+      "bytes": 13733012,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "776972da-b209-4cd1-92fa-51763a27b19b.png",
+      "path": "references/client-20261024/set-1/776972da-b209-4cd1-92fa-51763a27b19b.png",
+      "git_blob_sha": "9b51844978af3b427669161e6a3139df1f84b1a3",
+      "bytes": 1348425,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "78092879_p0.jpg",
+      "path": "references/client-20261024/set-1/78092879_p0.jpg",
+      "git_blob_sha": "c6d7d7815ea103e4221a91408dadd875754e819a",
+      "bytes": 2248936,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "85423051_p0.jpg",
+      "path": "references/client-20261024/set-1/85423051_p0.jpg",
+      "git_blob_sha": "ecbee77514b1a65a2ee38fd01415f7770b71c90f",
+      "bytes": 466407,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "87085789_p0.jpg",
+      "path": "references/client-20261024/set-1/87085789_p0.jpg",
+      "git_blob_sha": "3ff75d40c6f814ff4093963569044bcb38415549",
+      "bytes": 1297832,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "90581812_p0.jpg",
+      "path": "references/client-20261024/set-1/90581812_p0.jpg",
+      "git_blob_sha": "f9198d115fc915f0dd5f929a1fe47758b29fd413",
+      "bytes": 449540,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "98845836_p0_master1200.jpg",
+      "path": "references/client-20261024/set-1/98845836_p0_master1200.jpg",
+      "git_blob_sha": "ce1e2b92dcb82b220640a41d379ed6062a0e1b67",
+      "bytes": 413958,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "99972292_p0.jpg",
+      "path": "references/client-20261024/set-1/99972292_p0.jpg",
+      "git_blob_sha": "ac1e5509b160f5d202270a7e62c777770b5b571a",
+      "bytes": 2596642,
+      "source_commit": "4fb59dd643c9883e3e85664c8b651168685be590",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "22859.png",
+      "path": "references/client-20261024/set-2/22859.png",
+      "git_blob_sha": "285baee4dce53d5c0b67cc2d271e18009b2d8948",
+      "bytes": 1883476,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "321.png",
+      "path": "references/client-20261024/set-2/321.png",
+      "git_blob_sha": "f86491dec1c3ea39e21a11d9cf66869b3f9458b4",
+      "bytes": 1344004,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "654884'.png",
+      "path": "references/client-20261024/set-2/654884'.png",
+      "git_blob_sha": "5423e6cd8bd01eac25d50f0835d929f2f02d4603",
+      "bytes": 1726526,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "generated.png",
+      "path": "references/client-20261024/set-2/generated.png",
+      "git_blob_sha": "989167878069a1139f6c46587c0c9d2637e6d49f",
+      "bytes": 1517773,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "generated.png2.png",
+      "path": "references/client-20261024/set-2/generated.png2.png",
+      "git_blob_sha": "e9e9f4ca2b3a855163f97c16fcd63e287ff0a201",
+      "bytes": 1670843,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "client supplied reference image",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "prompts (1).txt",
+      "path": "references/client-20261024/set-2/prompts (1).txt",
+      "git_blob_sha": "11d707b82fba9af6a405adfa46841c72c367d57a",
+      "bytes": 3102,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "untrusted reference prompt text",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "prompts (2).txt",
+      "path": "references/client-20261024/set-2/prompts (2).txt",
+      "git_blob_sha": "701e4346ff1c931d509af3c36c9893e3804e01a8",
+      "bytes": 1046,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "untrusted reference prompt text",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "prompts (3).txt",
+      "path": "references/client-20261024/set-2/prompts (3).txt",
+      "git_blob_sha": "2d5944b25a114234dfaa6c91a51601069f283c2f",
+      "bytes": 3114,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "untrusted reference prompt text",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "prompts (4).txt",
+      "path": "references/client-20261024/set-2/prompts (4).txt",
+      "git_blob_sha": "b2ef8cd44ab44224d8c6f651e1e4c6711b2f54c3",
+      "bytes": 3732,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "untrusted reference prompt text",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "prompts (5).txt",
+      "path": "references/client-20261024/set-2/prompts (5).txt",
+      "git_blob_sha": "2df8b6b1e5c27b00e6bd69f79cd8e2f578ec81a2",
+      "bytes": 2704,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "untrusted reference prompt text",
+      "generation_eligible": false
+    },
+    {
+      "original_path": "prompts.txt",
+      "path": "references/client-20261024/set-2/prompts.txt",
+      "git_blob_sha": "cb27c0a9e8508b2468ce5ecff7ef84527dc89faa",
+      "bytes": 3328,
+      "source_commit": "f63a81a714395977af033c858cc4d83dec542e4c",
+      "role": "untrusted reference prompt text",
+      "generation_eligible": false
+    }
+  ]
+}
