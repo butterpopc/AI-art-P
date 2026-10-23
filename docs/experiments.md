@@ -7,7 +7,7 @@
 | ID | 시험과 조건 | 판정 | 근거 |
 |---|---|---|---|
 | V45-PIPELINE | V4.5 텍스트/참조 2장. 프롬프트도 달라 참조 효과를 단독 분리할 수 없음 | 구조 이탈, 과거 선정본 대체 안 함 | [검수](../reviews/pipeline-evaluation.md) |
-| V5-COMPARE | 832×1216, 23 steps, Euler ancestral/Karras, CFG 7. 시드 271025/271026. 무작가·PUUZAKI·saitom 및 품질 구간 비교 6장 | 얼굴 변화와 구조 이탈 동반. 같은 조건 연속 생성 중단 | [검수](../reviews/v5-comparison.md) · [비교 화면](../comparison-v5.html) |
+| V5-COMPARE | 832×1216, 23 steps, Euler ancestral/Karras, CFG 7. 시드 271025/271026. 무작가·PUUZAKI·saitom 및 품질 구간 비교 6장 | 얼굴 변화와 구조 이탈 동반. 같은 조건 연속 생성 중단 | [검수](../reviews/v5-comparison.md) · [비교 화면](https://github.com/butterpopc/AI-art-P/blob/dae0a647f65e3ea27bf38b03a9aea2fab6a6940a/comparison-v5.html) |
 | V5-FACE | 얼굴 진행 v4의 V5 3장. CFG 7→5, 프롬프트 간소화, 다른 시드 순차 시험 | 긴 코·단순한 피부 표현, 기준 얼굴 미교체 | [검수](../reviews/face-progress-v4.md) · [프롬프트](../prompts/) |
 | GPT-FACE | 기준 얼굴과 표정·방향 후보 제작 | 얼굴·정면 인상 유지 방향. 전체 승인 아님 | [얼굴](../reviews/original-face-v2.md) · [표정](../reviews/original-expressions-v2.md) |
 | GPT-BODY | 기준 얼굴을 정면 전신 제안으로 확장 | 체형·하의·신발 미승인, A라인 등 한계 기록 | [검수](../reviews/fullbody-front-v1.md) |

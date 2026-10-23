@@ -118,7 +118,7 @@ def main():
                     "quality": args.quality,
                     "observed_anlas": before-after, "visual_review": "pending", "client_approval": "pending"}
             metadata.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
-            (REPO / "prompts" / (stem + ".json")).write_text(json.dumps(payload, ensure_ascii=False, indent=2)+"\n")
+            # The full request is stored in artwork metadata; do not duplicate it in prompts.
             record["status"] = "saved_pending_visual_review"
             save_ledger(ledger)
             print(json.dumps({"image": str(output), "png_source": data["png_source"],
